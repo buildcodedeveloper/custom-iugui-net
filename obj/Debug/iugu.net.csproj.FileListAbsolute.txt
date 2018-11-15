@@ -1,0 +1,10 @@
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\obj\Debug\iugu.net.csprojAssemblyReference.cache
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\obj\Debug\iugu.net.csproj.CoreCompileInputs.cache
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\bin\Debug\iugu.net.dll.config
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\bin\Debug\iugu.net.dll
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\bin\Debug\iugu.net.pdb
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\bin\Debug\Newtonsoft.Json.dll
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\bin\Debug\Newtonsoft.Json.xml
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\obj\Debug\iugu.net.csproj.CopyComplete
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\obj\Debug\iugu.net.dll
+E:\Data\www\public\c#\ASP NET\console\iugu-net-develop\iugu.net\obj\Debug\iugu.net.pdb
